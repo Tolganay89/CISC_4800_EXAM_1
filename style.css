@@ -1,0 +1,46 @@
+body {
+    background-color: #f8f4f4;
+    font-family: "Times New Roman", Times;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.title{
+    font-size: 23px;
+    margin-bottom: 0;
+}
+
+#TableHeading{
+    text-decoration: underline;
+    margin-bottom: 0;
+}
+#TableHeading{
+    font-size: 23px;
+    margin-bottom: 0;
+}
+table {
+    border-collapse: collapse;
+    margin: auto;
+    width: 85%;
+   
+}
+
+th {
+    text-align: left;
+}
+
+li {
+    margin-left: 22px;
+}
+
+footer {
+    color: blue;
+    text-align: center;
+    font-size: 15px;
+
+}
